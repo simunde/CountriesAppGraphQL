@@ -1,6 +1,6 @@
-# Created an App to use GraphQL & Hilt-Dagger
+# Created an App to use GraphQL & Hilt-Dagger. 
+## This app queries data of countries and shows them on the app. Also implemented Clean Architecture for the App.
 
-## This app queries data of countries and shows them on the app
 
 
 ## Screenshots
